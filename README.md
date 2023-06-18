@@ -24,7 +24,7 @@ I have reviewed your work and here are the final checklist items:
 ```
 The output will be a outlook email file named `email_template.msg`. There is no need to delete this file after use, it'll be replaced by the next one.
 
-Follow the `instructions.md` to use. Pretty simple straightfoward.
+Follow the `instructions.md` to use. Pretty simple and straightfoward.
 
 ### Contribuition
 
