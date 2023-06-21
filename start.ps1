@@ -6,6 +6,9 @@ else {
     pip install -r requirements.txt
 }
 
-venvAuto_email\Scripts\Activate.ps1
+cd venvAuto_email\Scripts
+.\Activate.ps1
+cd ..
+cd ..
 python .\auto_email.py
 deactivate
