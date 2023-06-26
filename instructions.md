@@ -6,8 +6,9 @@
 Depending on your system's security settings, you may need to allow execution of PowerShell.
 Run the following command in an elevated (administrative) PowerShell terminal (without ""):
 
-    1. Run `start.ps1` as admin.
+    1. Run `powershell` as admin.
     2. `Set-ExecutionPolicy RemoteSigned`
+    3. `cd` to auto_email folder and run with `.\start.ps1`
 
 ## Linux/Bash
     1. Give permission to `start.sh` with `chmod +x start.sh`
