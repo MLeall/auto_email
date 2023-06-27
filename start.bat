@@ -18,5 +18,4 @@ if exist ".venvAuto_email" (
 cd %current_path%
 python auto_email.py
 call deactivate.bat
-echo Done. You may close this now.
 pause

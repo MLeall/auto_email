@@ -1,5 +1,4 @@
 import os
-from time import sleep
 from message_creator import to_msg
 
 email_header = 'Hello,\nI have reviewed your work and here are the final checklist items:\n\n'
